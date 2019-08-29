@@ -1,3 +1,2 @@
 Git Practice session A
-Git Practice session B
-Git Practice session C
+Git Practice session X
